@@ -1,5 +1,7 @@
 # ist256-l2
-- [ ] Due: Sun Sep 6, 2026 11:59pm
+- [x] Due: Sun Sep 6, 2026 11:59pm
+
+- link: [homework](https://mmt6227.github.io/ist256-l2)
 ## L2: Solo Lab Assignment CSS Exercise Fictional Storefront Home page
 
 ### Details
