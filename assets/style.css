@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.footer-container {
+  background-color: #f8f9fa;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: #6c757d;
+}
+header {
+  background-color: firebrick;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+}
+#about {
+  padding: 20px;
+  text-align: center;
+}
+#restaurant {
+  padding: 20px;
+  text-align: center;
+}
+#preview {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+.moving-images {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}
+#box-1{
+  flex: 1;
+  min-width: 250px;
+  margin: 20px;
+  padding: 20px;
+}
+footer a {
+  color: #f3ede3;
+  margin: 0 10px;
+}
+footer p {
+  margin-top: 15px;
+}
+#menu{
+  flex: 1;
+  min-width: 300px;
+  padding: 20px;
+}
+.links{
+  color: #6c757d;
+}
