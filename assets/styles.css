@@ -64,3 +64,23 @@ footer p {
 .links{
   color: #6c757d;
 }
+.special-row {
+  display: flex;
+  align-items: stretch;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.special-card {
+  flex: 0 0 auto;
+}
+
+.special-photo {
+  flex: 1 1 300px;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
